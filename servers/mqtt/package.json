@@ -1,21 +1,14 @@
 {
-  "name": "vueduino-mqtt",
+  "name": "m",
   "version": "1.0.0",
-  "description": "IoT server based on MQTT protocol for nodeMCU units",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Mhdi-kr/vueduino-mqtt.git"
-  },
-  "author": "Mahdi Karimi",
+  "keywords": [],
+  "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Mhdi-kr/vueduino-mqtt/issues"
-  },
-  "homepage": "https://github.com/Mhdi-kr/vueduino-mqtt#readme",
   "dependencies": {
     "aedes": "^0.44.0"
   }
