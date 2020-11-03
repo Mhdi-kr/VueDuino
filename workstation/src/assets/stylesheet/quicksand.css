@@ -1,0 +1,7 @@
+@font-face {
+    src: url("../fonts/Quicksand-Medium.ttf");
+    font-face-name: Quicksand;
+}
+body {
+    font-family: 'Quicksand', sans-serif !important;
+}

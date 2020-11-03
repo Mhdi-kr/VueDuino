@@ -2,8 +2,7 @@
 node_modules
 /dist
 workstation/node_modules
-servers/express/node_modules/
-servers/mqtt/node_modules
+server/node_modules
 
 # local env files
 .env.local
